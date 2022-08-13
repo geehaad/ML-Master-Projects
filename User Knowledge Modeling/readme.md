@@ -41,17 +41,18 @@ of user knowledge, we learned:</h4>
  of 72%, 66% for training and testing, on order.
 
 - Approaches:
- • OvR-SVM Approach: we made four models by label one class with 1 and the rest
- with 0 for the four classes.
- • OvO-SVM Approach: For each pair of classes, we labeled one class with 0, and the
- other with 1, and came out with six classes, and in turn, models.
- we calculated the num of classes = (NumClasses*(NumClasses–1)) / 2
- - Aggregated results:
- • OvR-SVM: After the binarization, we calculated the confidence score for these
- classes and used the argmax to get the index of the maximum value of confidence
- score.
- • OvO-SVM: We have 6 classes and got 3 confidence score for each class, so we sum
- each class confidence score, and take the mean, and used the argmax to get the index
- of the maximum value of confidence score.
+   • OvR-SVM Approach: we made four models by label one class with 1 and the rest
+   with 0 for the four classes.
+   • OvO-SVM Approach: For each pair of classes, we labeled one class with 0, and the
+   other with 1, and came out with six classes, and in turn, models.
+   we calculated the num of classes = (NumClasses*(NumClasses–1)) / 2
+   
+- Aggregated results:
+   • OvR-SVM: After the binarization, we calculated the confidence score for these
+   classes and used the argmax to get the index of the maximum value of confidence
+   score.
+   • OvO-SVM: We have 6 classes and got 3 confidence score for each class, so we sum
+   each class confidence score, and take the mean, and used the argmax to get the index
+   of the maximum value of confidence score.
 - We visualized each result of our approaches.
 
