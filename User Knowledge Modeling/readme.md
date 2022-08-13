@@ -47,12 +47,12 @@ of user knowledge, we learned:</h4>
    other with 1, and came out with six classes, and in turn, models.
    we calculated the num of classes = (NumClasses*(NumClasses–1)) / 2
    
-- Aggregated results:
+- Aggregated results:<br>
    • OvR-SVM: After the binarization, we calculated the confidence score for these
    classes and used the argmax to get the index of the maximum value of confidence
-   score.
+   score.<br>
    • OvO-SVM: We have 6 classes and got 3 confidence score for each class, so we sum
    each class confidence score, and take the mean, and used the argmax to get the index
-   of the maximum value of confidence score.
+   of the maximum value of confidence score.<br>
 - We visualized each result of our approaches.
 
