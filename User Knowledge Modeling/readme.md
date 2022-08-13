@@ -27,7 +27,7 @@ these factors have on predicting the user knowledge level
  
  
 
-* Conclusion:
+<h2>Conclusion:</h2>
 In this project, we implemented different algorithms and technique to solve the problem
 of user knowledge, we learned:
 - Feature selection using: - Correlation Matrix, - univariate Feature Selection, - .coef
