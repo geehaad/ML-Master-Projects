@@ -10,14 +10,14 @@ Car-Wine Classification
 Diabetic Prediction
 <ul>
   <ul>
-  ## Classification
+  <h2> Classification
   <li>
   KNN
   <li>
   Logistic Regression
   </ul>
   <ul>
-  ## Dimentionality Reduction
+  <h2> Dimentionality Reduction
   <li>
   PCA 
   </ul>
@@ -29,7 +29,7 @@ Diabetic Prediction
   Wrapper Method
   </ul>
   <ul>
-  ##Clustring
+  <h2>Clustring
   <li>
   Kmeans
   <li>
