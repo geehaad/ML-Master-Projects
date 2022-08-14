@@ -18,19 +18,19 @@ Couple of ML projects implemented during my master journy
       Logistic Regression
       </ul>
       <ul>
-      <h2> Dimentionality Reduction
+      Dimentionality Reduction
       <li>
       PCA 
       </ul>
       <ul>
-      Feature Selection
+      <h3>Feature Selection</h3>
       <li>
       Information Gain
       <li>
       Wrapper Method
       </ul>
       <ul>
-      <h2>Clustring
+      <h3>Clustring</h3>
       <li>
       Kmeans
       <li>
