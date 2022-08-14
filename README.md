@@ -10,7 +10,7 @@ Couple of ML projects implemented during my master journy
   <li>
   <h2>Diabetic Prediction</h2>
     <ul>
-      <ul>
+    <ul>
       <h3>Classification</h3>
           <li>
           KNN
