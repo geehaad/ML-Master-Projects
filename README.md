@@ -11,14 +11,14 @@ Couple of ML projects implemented during my master journy
   <h2>Diabetic Prediction</h2>
     <ul>
       <ul>
-      Classification
+      <h3>Classification</h3>
       <li>
       KNN
       <li>
       Logistic Regression
       </ul>
       <ul>
-      Dimentionality Reduction
+      <h3>Dimentionality Reduction</h3>
       <li>
       PCA 
       </ul>
