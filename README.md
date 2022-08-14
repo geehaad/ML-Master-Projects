@@ -17,7 +17,6 @@ Couple of ML projects implemented during my master journy
           <li>
           Logistic Regression
       </ul>
-      
       <ul>
       <h3>Dimentionality Reduction</h3>
           <li>
