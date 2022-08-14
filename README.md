@@ -1,8 +1,8 @@
-# ML-master-projects
+<h1> ML-master-projects</h1>
 Couple of ML projects implemented during my master journy 
 
 
-## Project: 
+<h1> Project: </h1>
 <ul>
 <li>
 Car-Wine Classification
@@ -10,7 +10,7 @@ Car-Wine Classification
 Diabetic Prediction
 <ul>
   <ul>
-  <h2> Classification
+  Classification
   <li>
   KNN
   <li>
