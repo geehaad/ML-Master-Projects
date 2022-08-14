@@ -2,7 +2,7 @@
 We work with Diabetic dataset; the dataset contains 576 rows and 8 columns.
 
 <h1>Classifiers:</h1> 
-• We used 2 classifiers: LR and K-NN classifiers on our dataset, and 
+• We used 2 classifiers: <b>LR</b> and <b>K-NN</b> classifiers on our dataset, and 
 • We plot the TSNE for each classifier, one for training and another for testing 
 data. 
 
@@ -39,17 +39,19 @@ on then plot initial and final position of neurons.
 <b>Density-Based</b> Spatial Clustering of Applications with
 Noise (DBSCAN) is a base algorithm for density-based clustering, It can 
 discover clusters of different shapes and sizes from a large amount of data, 
-which is containing noise and outliers.
+which is containing noise and outliers.<br>
+
 DBSCAN does not require one to specify the number of clusters in the 
-data a priori, as opposed to k-means.
- The DBSCAN algorithm uses two parameters:
+data a priori, as opposed to k-means.<br>
+
+<h3>The DBSCAN algorithm uses two parameters:</h3><br>
 • minPts: The minimum number of points clustered together for a 
-region to be considered dense.
+region to be considered dense.<br>
 • eps (ε): A distance measure that will be used to locate the points 
-about any point.
-In this point we tune the hyperparameters:
-- Epsilon (0.3 : 0.70)
-- Minppoints (2 : 15)
+about any point.<br>
+<h4>In this point we tune the hyperparameters:</h4>
+- Epsilon (0.3 : 0.70)<br>
+- Minppoints (2 : 15)<br>
 We tried each combination of Epsilon and min-point and produce its 
 Silhouette score
 
