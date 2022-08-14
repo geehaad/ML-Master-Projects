@@ -26,8 +26,12 @@ based on best selected features.
 <h1>SOM</h1>
 <pr>An SOM is mainly used for data visualization and provides a quick visual 
 summary of the training instances. In a 2D rectangular grid, each cell is 
-represented by a weight vector. For a trained SOM, each cell weight 
-represents a summary of a few training examples. Cells in the close vicinity of 
+represented by a weight vector. 
+  
+For a trained SOM, each cell weight 
+represents a summary of a few training examples.
+
+Cells in the close vicinity of 
 each other have similar weights, and like examples can be mapped to cells in 
 a small neighborhood of each other.</pr>
 
