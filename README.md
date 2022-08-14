@@ -10,4 +10,14 @@ Car-Wine Classification
 Diabetic Prediction
 <li>
 User Knowledge Modeling
-<ul>
+  <ul>
+  <li>
+  SVM.
+  <li>
+  Perceptron.
+  <li>
+  OVR-SVM.
+  <li>
+  OVO-SVM.
+  </ul>
+</ul>
