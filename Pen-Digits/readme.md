@@ -41,7 +41,7 @@ and learning rate we obtained in the previous question.
 </ul>
 
 <pr><b>Which metric is the best to compare performance, accuracy or confusion
-matrix?</b>
+matrix?</b><br>
 Accuracy performance metrics can be decisive when dealing with imbalanced
 data, hence, overfitting.
 The confusion matrix, precision, recall, and F1 score gives better intuition of
