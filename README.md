@@ -3,7 +3,7 @@
 Couple of ML projects implemented during my master journy.
 
 
-<h1> Project: </h1>
+<h1> Projects: </h1>
 
   -[p1](https://github.com/geehaad/ML-Master-Projects/tree/main/User%20Knowledge%20Modeling):  User Knowledge Modeling
   
