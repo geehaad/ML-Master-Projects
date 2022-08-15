@@ -17,30 +17,25 @@ compare their accuracies and plot the confusion matrix
 <li>
 Bagging
 <ul>
-    <li>
-      SVM base estimator
-    <li>
-    Decision Tree base estimator
-    <li>
-    Majority voting
-        
-     We used the two estimated models(SVM, Decision tree) in majority voting algorithm.
-    </ul>
-    
 <li>
-Boosting
-    
-    We use Gradient Boosting classifier to classify test set samples.
-    <ul>
-    <li>
-        First, we tune the number of estimators, we used fixed number of learning rate = .1, and
+SVM base estimator
+<li>
+Decision Tree base estimator
+<li>
+Majority voting<br>
+We used the two estimated models(SVM, Decision tree) in majority voting algorithm.
+ </ul>  
+<li>
+Boosting<br>
+We use Gradient Boosting classifier to classify test set samples.
+<ul>
+<li>
+First, we tune the number of estimators, we used fixed number of learning rate = .1, and
 used different number of estimators [10, 50, 150, 200]
-        
-        <li>
-            Then, we tune the learning rate, we used the best number of estimators = 200, and used
+<li>
+ Then, we tune the learning rate, we used the best number of estimators = 200, and used
 different Learning rates [.1, .3, .6, .9]
-
-        </ul>
+</ul>
 <li>we used XGBoost classifier with the same number of estimator
 and learning rate we obtained in the previous question.
 </ul>
