@@ -1,13 +1,15 @@
 <h1>overview</h1>
-<pr>With the expanded applications of modern-day networking, network infrastructures are at risk from cyber-attacks and intrusions.
+<pr>
+With the expanded applications of modern-day networking, network infrastructures are at risk from cyber-attacks and intrusions.
 Multiple datasets have been proposed in the literature that can be used to create Machine Learning (ML) based Network Intrusion Detection Systems (NIDS). 
 However, many of these datasets suffer from sub-optimal performance and do not adequately and effectively represent all types of intrusions. 
 Another problem with these datasets is the low accuracy of tail classes. 
 To address these issues, the University of Nevada - Reno proposed an Intrusion Detection Dataset (UNR-IDD) that provides researchers with a wider range of samples and scenarios.
-</pr>
+</pr><br>
 
 
-<img src='Capture.PNG>
+<h2>Problem flowchart</h2>
+<img src='Capture.PNG'>
  <br>
 
 <h2>I use different techniques through project that help to apply what we learn theoretically:</h2>
