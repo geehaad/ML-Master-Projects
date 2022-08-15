@@ -4,20 +4,15 @@ Couple of ML projects implemented during my master journy
 
 <h1> Project: </h1>
 <ul>
-  <li>
   -[p1](https:https://github.com/geehaad/ML-Master-Projects/tree/main/User%20Knowledge%20Modeling)User Knowledge Modeling
   
-  <li>
   -[p1](https:https://github.com/geehaad/ML-Master-Projects/tree/main/Car-Wine%20Classification): Car-Wine Classification
   
-  <li>
   -[p3](https://github.com/geehaad/ML-Master-Projects/tree/main/Pen-Digits): Pen-Digits clustring
    
-  <li>
   -[p2](https://github.com/geehaad/ML-Master-Projects/tree/main/Diabetic%20Prediction): Diabetic Prediction
-  
    
-   -[p2](https://github.com/geehaad/ML-Master-Projects/tree/main/Network%20Attacker%20Classification): (Network Attackers Classification
+  -[p2](https://github.com/geehaad/ML-Master-Projects/tree/main/Network%20Attacker%20Classification): (Network Attackers Classification
    
   
   </ul>
