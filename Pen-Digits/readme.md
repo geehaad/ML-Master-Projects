@@ -8,17 +8,18 @@ Decision Tree
 Confusion matrix
 
 
-<h2></h2>
+<h2>Ensamble learning</h2>
 <ul>
-Ensamble learning
 We create estimator using SVM and Decision Tree algorithms as base estimators,
 compare their accuracies and plot the confusion matrix
 <li>
 Bagging
+<ul>
     <li>
       SVM base estimator
     <li>
     Decision Tree base estimator
+    </ul>
 <li>
 Majority voting
 We used the two estimated models(SVM, Decision tree) in majority voting algorithm.
