@@ -7,7 +7,7 @@ To address these issues, the University of Nevada - Reno proposed an Intrusion D
 </pr>
 
 
-<img src='Capture.PNG>
+<img src='Capture.PNG'>
  <br>
 
 <h2>I use different techniques through project that help to apply what we learn theoretically:</h2>
