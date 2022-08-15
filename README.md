@@ -3,7 +3,7 @@ Couple of ML projects implemented during my master journy
 
 
 <h1> Project: </h1>
-<ul>
+
   -[p1](https:https://github.com/geehaad/ML-Master-Projects/tree/main/User%20Knowledge%20Modeling)User Knowledge Modeling
   
   -[p1](https:https://github.com/geehaad/ML-Master-Projects/tree/main/Car-Wine%20Classification): Car-Wine Classification
@@ -14,5 +14,4 @@ Couple of ML projects implemented during my master journy
    
   -[p2](https://github.com/geehaad/ML-Master-Projects/tree/main/Network%20Attacker%20Classification): (Network Attackers Classification
    
-  
-  </ul>
+ 
