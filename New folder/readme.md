@@ -4,9 +4,10 @@ Multiple datasets have been proposed in the literature that can be used to creat
 However, many of these datasets suffer from sub-optimal performance and do not adequately and effectively represent all types of intrusions. 
 Another problem with these datasets is the low accuracy of tail classes. 
 To address these issues, the University of Nevada - Reno proposed an Intrusion Detection Dataset (UNR-IDD) that provides researchers with a wider range of samples and scenarios.
-</pr>
+</pr><br>
 
-<br>
+
+<h2>Problem flowchart</h2>
 <img src='Capture.PNG'>
  <br>
 
