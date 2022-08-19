@@ -2,7 +2,10 @@
 We work with Diabetic dataset; the dataset contains 576 rows and 8 columns.
 
 <h1>Classifiers:</h1> 
-• We used 2 classifiers: <b>LR</b> and <b>K-NN</b> classifiers on our dataset, and 
+• We used 2 classifiers: 
+  <b>LR</b>,
+  and <b>K-NN</b> 
+classifiers on our dataset, and 
 • We plot the TSNE for each classifier, one for training and another for testing 
 data. 
 
