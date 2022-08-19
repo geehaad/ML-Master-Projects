@@ -19,8 +19,12 @@ data.
 - For each algorithm (LR and KNN) we tried various number of PCA components and checked the test accuracy for each one.
 
 <h1>Feature Selection methods :</h1>
+<ul>
+  <li>
 • Information gain
-• Wrapper method<
+   <li>
+• Wrapper method
+ </ul>
 - We use <b>Information gain</b> in Filter method and forward Elimination in 
 Wrapper methods.
 <br>
